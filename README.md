@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="banner.svg" alt="SeNsXD / xdNOT-Labs — Building things for the fun of it." width="100%" />
+  <img src="banner.svg" alt="RISHABH (SeNsXD) / xdNOT-Labs — Building things for the fun of it." width="100%" />
 </div>
 
 <br />
 
-# Hey, I'm SeNsXD.
+# Hey, I'm RISHABH.
 
 Building things for the fun of it.
 
