@@ -57,6 +57,7 @@ I enjoy experimenting with ideas, exploring software, and turning random thought
 
 ### Connect
 
+- **Discord:** [Join the Discord](https://discord.gg/X9b6TSYdVk)
 - **Portfolio:** [rishabh-portfolio](https://rishabh-portfolio-wheat.vercel.app/)
 - **X (Twitter):** [@rixh4bh](https://x.com/rixh4bh)
 - **YouTube:** [@xdNOTLabs](https://www.youtube.com/@xdNOTLabs)
