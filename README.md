@@ -16,27 +16,24 @@ I enjoy experimenting with ideas, exploring software, and turning random thought
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <h4><a href="https://github.com/SeNsXD/Recall">Recall</a></h4>
       <p><b>Your memory. Your device. Your control.</b></p>
       <p>An offline-first personal memory app with an integrated on-device assistant (Echo) that never phones home. Notes, documents, passwords, locations, receipts, and spending analytics — 100% private and hardware-encrypted.</p>
       <p><code>Android</code> &bull; <code>Kotlin</code> &bull; <code>Jetpack Compose</code> &bull; <code>Offline-First</code></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <h4><a href="https://github.com/SeNsXD/Swift-Tab">Swift Tab</a></h4>
       <p><b>A sleek taskbar companion for Windows 11 &amp; 10.</b></p>
       <p>Docks directly into your Windows taskbar with live interactive pills for media controls, weather forecasts, clipboard history, file shelf, and earbud battery levels. Lightweight native Rust.</p>
       <p><code>Windows 11 / 10</code> &bull; <code>Rust</code> &bull; <code>Direct2D</code> &bull; <code>Slint</code></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <h4><a href="https://github.com/SeNsXD/GymBros">GymBros</a></h4>
       <p><b>A modern fitness app that makes workout tracking engaging.</b></p>
       <p>Log sets, reps, PRs, and cardio with in-workout Spotify controls, Daily Quests, XP leveling, custom Move time rings, and encrypted Google Drive cloud backup.</p>
       <p><code>Android</code> &bull; <code>Kotlin</code> &bull; <code>Jetpack Compose</code> &bull; <code>Spotify Remote</code></p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 

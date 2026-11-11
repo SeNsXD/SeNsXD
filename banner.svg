@@ -132,7 +132,7 @@
     </text>
 
     <!-- Project Showcase Strip -->
-    <g transform="translate(230, 252)">
+    <g transform="translate(325, 252)">
       <!-- Project 1: Recall -->
       <g transform="translate(0, 0)">
         <rect x="0" y="0" width="170" height="48" rx="10" fill="url(#pillGrad)" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
@@ -149,16 +149,8 @@
         <text x="36" y="38" class="pill-sub">Windows 11</text>
       </g>
 
-      <!-- Project 3: WidgetLabs -->
+      <!-- Project 3: GymBros -->
       <g transform="translate(380, 0)">
-        <rect x="0" y="0" width="170" height="48" rx="10" fill="url(#pillGrad)" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
-        <circle cx="22" cy="24" r="4.5" fill="#a78bfa" />
-        <text x="36" y="22" class="pill-title">WidgetLabs</text>
-        <text x="36" y="38" class="pill-sub">Android Widgets</text>
-      </g>
-
-      <!-- Project 4: GymBros -->
-      <g transform="translate(570, 0)">
         <rect x="0" y="0" width="170" height="48" rx="10" fill="url(#pillGrad)" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
         <circle cx="22" cy="24" r="4.5" fill="#34d399" />
         <text x="36" y="22" class="pill-title">GymBros</text>
