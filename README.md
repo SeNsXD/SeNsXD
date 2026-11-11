@@ -31,17 +31,12 @@ I enjoy experimenting with ideas, exploring software, and turning random thought
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/SeNsXD/Widgetlabs">WidgetLabs</a></h4>
-      <p><b>Thoughtful widgets that make your home screen more useful.</b></p>
-      <p>A modern collection of Android widgets featuring real-time earbuds battery monitoring &amp; ANC toggles, universal media playback controls, weather forecasts, and dynamic Material You themes.</p>
-      <p><code>Android</code> &bull; <code>Kotlin</code> &bull; <code>Material You</code> &bull; <code>Customization</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/SeNsXD/GymBros">GymBros</a></h4>
       <p><b>A modern fitness app that makes workout tracking engaging.</b></p>
       <p>Log sets, reps, PRs, and cardio with in-workout Spotify controls, Daily Quests, XP leveling, custom Move time rings, and encrypted Google Drive cloud backup.</p>
       <p><code>Android</code> &bull; <code>Kotlin</code> &bull; <code>Jetpack Compose</code> &bull; <code>Spotify Remote</code></p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
