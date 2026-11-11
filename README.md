@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="RISHABH (SeNsXD) / xdNOT-Labs — Building things for the fun of it." width="100%" />
+  <img src="header.svg" alt="RISHABH (SeNsXD) / xdNOT-Labs — Building things for the fun of it." width="100%" />
 </div>
 
 <br />
